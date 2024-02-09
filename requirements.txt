@@ -1,0 +1,12 @@
+Flask==1.1.1
+Jinja2==3.0.3
+werkzeug==2.0.2
+waitress==1.4.3
+flask_jwt_extended==3.24.1
+azure-storage-blob == 2.1.0
+pandas==0.25.1
+pyopenssl==19.0.0
+Paste==3.4.0
+grequests==0.6.0
+pyjwt==1.7.1
+itsdangerous==2.0.1
